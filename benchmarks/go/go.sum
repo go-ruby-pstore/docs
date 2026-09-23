@@ -6,3 +6,5 @@ github.com/go-ruby-pstore/pstore v0.0.0-20260630081017-0dd55a12f94e h1:JmbJL+0nq
 github.com/go-ruby-pstore/pstore v0.0.0-20260630081017-0dd55a12f94e/go.mod h1:tbYmHYXjnNXJCNYABDx9nWfuGBCXeKrp134bNsQeTpM=
 github.com/go-ruby-pstore/pstore v0.0.0-20260825110359-e874d1551968 h1:TRCyv9YPBrf0XRnr8iMfR8a95sIKsZ7uApIwsc7dj7A=
 github.com/go-ruby-pstore/pstore v0.0.0-20260825110359-e874d1551968/go.mod h1:RZGT1vhwpQ5b6jq94ghQkmTE6CMfM6AwsV8MtDA1UfE=
+github.com/go-ruby-pstore/pstore v0.0.0-20260916100755-22600eaa8ef5 h1:nfWXdTTDEVQAtL1ruCziiGW/BGPdRnxSAbLdgytMmrQ=
+github.com/go-ruby-pstore/pstore v0.0.0-20260916100755-22600eaa8ef5/go.mod h1:RZGT1vhwpQ5b6jq94ghQkmTE6CMfM6AwsV8MtDA1UfE=
