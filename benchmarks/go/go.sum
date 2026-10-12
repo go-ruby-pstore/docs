@@ -2,6 +2,8 @@ github.com/go-ruby-marshal/marshal v0.0.0-20260622114304-27ed1baddd9f h1:IIBuHgi
 github.com/go-ruby-marshal/marshal v0.0.0-20260622114304-27ed1baddd9f/go.mod h1:UpjSgWGcQSNt0ARWuHKwf0P55LkwZ65vuqoRPSKctZ8=
 github.com/go-ruby-marshal/marshal v0.0.0-20260820215345-e25f276d2451 h1:uuOqNDFJgvAU7OVFn9TLv5r7mMejq20gJRh7EzyW72k=
 github.com/go-ruby-marshal/marshal v0.0.0-20260820215345-e25f276d2451/go.mod h1:UpjSgWGcQSNt0ARWuHKwf0P55LkwZ65vuqoRPSKctZ8=
+github.com/go-ruby-marshal/marshal v0.0.0-20261011001655-c4c7450d0365 h1:EQBaboh/fzrVz5Fl/9hbMXyMREYIu3N9fawrqQ/GKo0=
+github.com/go-ruby-marshal/marshal v0.0.0-20261011001655-c4c7450d0365/go.mod h1:kMRLmfk/Q/yjsjBy4HhkdBkeBTasXS3S6kkbZTgGuew=
 github.com/go-ruby-pstore/pstore v0.0.0-20260630081017-0dd55a12f94e h1:JmbJL+0nq6HY1SX1tDBFQyo7M8JgbQ+ukwn8iLyNGfs=
 github.com/go-ruby-pstore/pstore v0.0.0-20260630081017-0dd55a12f94e/go.mod h1:tbYmHYXjnNXJCNYABDx9nWfuGBCXeKrp134bNsQeTpM=
 github.com/go-ruby-pstore/pstore v0.0.0-20260825110359-e874d1551968 h1:TRCyv9YPBrf0XRnr8iMfR8a95sIKsZ7uApIwsc7dj7A=
